@@ -1,37 +1,26 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="hrz76xbg48 — desktop, security and interface development" />
+  <img src="./assets/header.svg" width="100%" alt="hrz76xbg48 — developer profile" />
 </p>
 
-<p align="center">
-  <strong>I build focused desktop products that keep data close to the user.</strong><br />
-  <sub>Windows apps · local-first architecture · browser integrations · sharp interfaces</sub>
-</p>
+<h2 align="center">Hey, I'm hrz 👋</h2>
 
 <p align="center">
-  <a href="https://github.com/hrz76xbg48-pixel/varlune"><img alt="Varlune release" src="https://img.shields.io/github/v/release/hrz76xbg48-pixel/varlune?style=flat-square&label=Varlune&labelColor=090909&color=ededed" /></a>
-  <a href="https://github.com/hrz76xbg48-pixel/varlune"><img alt="Varlune platform" src="https://img.shields.io/badge/platform-Windows-ededed?style=flat-square&labelColor=090909" /></a>
-  <img alt="Open source" src="https://img.shields.io/badge/building-in_public-ededed?style=flat-square&labelColor=090909" />
+  I build desktop software, experiment with interfaces, and enjoy understanding how systems work.<br />
+  I value useful details, clean visuals, predictable behavior, and software that feels good to use.
 </p>
 
 <br />
 
-### `// CURRENT BUILD`
+### About me
 
-<a href="https://github.com/hrz76xbg48-pixel/varlune">
-  <img src="./assets/varlune-card.svg" width="100%" alt="Varlune — local-first password manager for Windows" />
-</a>
-
-**Varlune** is an offline-first password manager for Windows. It combines an encrypted local vault, a bundled Chromium extension, TOTP codes, flexible themes, and a deliberately calm interface.
-
-<p>
-  <a href="https://github.com/hrz76xbg48-pixel/varlune"><strong>Explore the source →</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/hrz76xbg48-pixel/varlune/releases/latest"><strong>Latest release →</strong></a>
-</p>
+- Interested in desktop development, application security, UI/UX, and browser integrations.
+- I enjoy taking ideas from a rough prototype to a complete Windows application.
+- I pay close attention to typography, motion, usability, and performance.
+- Always experimenting with new tools, graphics technologies, and ways to improve the experience.
 
 <br />
 
-### `// TOOLBOX`
+### Technologies
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -43,16 +32,14 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0a0a0a?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
 
-I care about the parts that are easy to overlook: readable typography, deliberate motion, clear system behavior, secure defaults, and packaging that works outside the developer's machine.
-
 <br />
 
-### `// OFF THE CLOCK`
+### Away from code
 
-Competitive games, sandbox worlds, high-fidelity graphics, DLSS experiments, horror aesthetics, and game tooling. I like software that feels precise, fast, and comfortable enough to disappear while you use it.
+I play competitive games such as **Overwatch**, **Dota 2**, **Valorant**, and **Apex Legends**. I also enjoy **Garry's Mod**, **Rust**, horror games, sandbox experiences, and testing high-end graphics features like ray tracing and DLSS.
 
 <br />
 
 <p align="center">
-  <sub>BUILD SMALL · TEST HARD · SHIP THE REAL THING</sub>
+  <sub>BUILD · LEARN · EXPERIMENT · REPEAT</sub>
 </p>
