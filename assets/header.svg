@@ -1,0 +1,48 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>hrz76xbg48 — desktop, security and interface development</title>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#202020" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="#050505"/>
+    <rect width="1200" height="360" fill="url(#grid)" opacity="0.56"/>
+
+    <path d="M0 72H1200M0 288H1200" stroke="#303030"/>
+    <path d="M72 0V360M1128 0V360" stroke="#303030"/>
+
+    <rect x="0" y="0" width="4" height="360" fill="#F4F4F4">
+      <animate attributeName="x" values="-4;1200" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="96" y="48" fill="#8A8A8A" font-size="13" font-weight="600" letter-spacing="3">PROFILE / 001</text>
+      <text x="1104" y="48" fill="#8A8A8A" font-size="13" font-weight="600" letter-spacing="3" text-anchor="end">ONLINE</text>
+      <circle cx="1124" cy="43" r="4" fill="#F5F5F5">
+        <animate attributeName="opacity" values="1;0.18;1" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+
+      <text x="96" y="182" fill="#F5F5F5" font-size="76" font-weight="800" letter-spacing="-4">hrz76xbg48</text>
+      <rect x="96" y="205" width="214" height="4" fill="#F5F5F5"/>
+      <text x="96" y="252" fill="#B7B7B7" font-size="17" font-weight="600" letter-spacing="4">DESKTOP · SECURITY · INTERFACE</text>
+
+      <text x="96" y="324" fill="#737373" font-size="12" font-weight="600" letter-spacing="2.5">LOCAL-FIRST SYSTEMS</text>
+      <text x="1104" y="324" fill="#737373" font-size="12" font-weight="600" letter-spacing="2.5" text-anchor="end">WINDOWS / ELECTRON</text>
+    </g>
+
+    <g transform="translate(946 104)">
+      <circle cx="72" cy="72" r="71" stroke="#383838" stroke-width="2"/>
+      <circle cx="72" cy="72" r="54" stroke="#F5F5F5" stroke-width="2" stroke-dasharray="62 18">
+        <animateTransform attributeName="transform" type="rotate" from="0 72 72" to="360 72 72" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M38 42H55L72 75L89 42H106L72 108L38 42Z" fill="#F5F5F5"/>
+      <circle cx="72" cy="72" r="5" fill="#050505"/>
+    </g>
+  </g>
+</svg>
