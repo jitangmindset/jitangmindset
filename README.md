@@ -19,7 +19,12 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=dotnet&logoColor=9B72CF">
+  <img alt="C" src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=659AD2">
+  <img alt="Java" src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
   <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=4B8BBE">
+  <img alt="Luau" src="https://img.shields.io/badge/Luau-111111?style=for-the-badge&logo=lua&logoColor=00A2FF">
+  <img alt="GLua" src="https://img.shields.io/badge/GLua-111111?style=for-the-badge&logo=lua&logoColor=5B6DEE">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=663399">
 </p>
