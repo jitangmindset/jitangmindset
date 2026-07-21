@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm hrz</h1>
+<h1 align="center">Hey, I'm jitangmindset</h1>
 
 <p align="center"><strong>Desktop developer · security enthusiast · interface perfectionist</strong></p>
 
@@ -35,17 +35,17 @@
 ## Varlune
 
 <p align="center">
-  <a href="https://github.com/hrz76xbg48-pixel/varlune">
-    <img src="https://raw.githubusercontent.com/hrz76xbg48-pixel/varlune/main/public/varlune-logo.png" width="112" alt="Varlune logo">
+  <a href="https://github.com/jitangmindset/varlune">
+    <img src="https://raw.githubusercontent.com/jitangmindset/varlune/main/public/varlune-logo.png" width="112" alt="Varlune logo">
   </a>
 </p>
 
-**[Varlune](https://github.com/hrz76xbg48-pixel/varlune) is my largest and most ambitious project.** It is a local-first password manager for Windows with an encrypted vault, TOTP, backups, a Chromium extension and a C# Native Messaging host.
+**[Varlune](https://github.com/jitangmindset/varlune) is my largest and most ambitious project.** It is a local-first password manager for Windows with an encrypted vault, TOTP, backups, a Chromium extension and a C# Native Messaging host.
 
 The project grew from an application prototype into a complete Windows product with an installer, portable builds, themes, migrations, recovery tools and **71 passing automated tests**.
 
 <p align="center">
-  <a href="https://github.com/hrz76xbg48-pixel/varlune"><img alt="Varlune repository" src="https://img.shields.io/badge/source-Varlune-111111?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/hrz76xbg48-pixel/varlune/releases/latest"><img alt="Latest Varlune release" src="https://img.shields.io/github/v/release/hrz76xbg48-pixel/varlune?style=for-the-badge&label=release&color=111111"></a>
+  <a href="https://github.com/jitangmindset/varlune"><img alt="Varlune repository" src="https://img.shields.io/badge/source-Varlune-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/jitangmindset/varlune/releases/latest"><img alt="Latest Varlune release" src="https://img.shields.io/github/v/release/jitangmindset/varlune?style=for-the-badge&label=release&color=111111"></a>
   <img alt="Varlune tests" src="https://img.shields.io/badge/tests-71%20passed-111111?style=for-the-badge">
 </p>
