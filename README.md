@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm jitangmindset</h1>
+<h1 align="center">Hey, I'm jitang</h1>
 
 <p align="center"><strong>Desktop developer · security enthusiast · interface perfectionist</strong></p>
 
